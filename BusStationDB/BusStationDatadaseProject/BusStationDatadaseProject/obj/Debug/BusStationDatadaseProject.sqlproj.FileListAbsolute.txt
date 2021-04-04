@@ -1,0 +1,12 @@
+D:\TNTU\3_course\Курсова\source code\BusStationDB\BusStationDatadaseProject\BusStationDatadaseProject\bin\Debug\BusStationDatadaseProject.dacpac
+D:\TNTU\3_course\Курсова\source code\BusStationDB\BusStationDatadaseProject\BusStationDatadaseProject\obj\Debug\BusStationDatadaseProject.sqlprojAssemblyReference.cache
+D:\TNTU\3_course\Курсова\source code\BusStationDB\BusStationDatadaseProject\BusStationDatadaseProject\obj\Debug\BusStationDatadaseProject.dll
+D:\TNTU\3_course\Курсова\source code\BusStationDB\BusStationDatadaseProject\BusStationDatadaseProject\obj\Debug\BusStationDatadaseProject.pdb
+D:\TNTU\3_course\Курсова\source code\BusStationDB\BusStationDatadaseProject\BusStationDatadaseProject\bin\Debug\BusStationDatadaseProject.dll
+D:\TNTU\3_course\Курсова\source code\BusStationDB\BusStationDatadaseProject\BusStationDatadaseProject\bin\Debug\BusStationDatadaseProject.pdb
+D:\University\Transport\DB-coursework-bus-station\BusStationDB\BusStationDatadaseProject\BusStationDatadaseProject\bin\Debug\BusStationDatadaseProject.dacpac
+D:\University\Transport\DB-coursework-bus-station\BusStationDB\BusStationDatadaseProject\BusStationDatadaseProject\bin\Debug\BusStationDatadaseProject.dll
+D:\University\Transport\DB-coursework-bus-station\BusStationDB\BusStationDatadaseProject\BusStationDatadaseProject\bin\Debug\BusStationDatadaseProject.pdb
+D:\University\Transport\DB-coursework-bus-station\BusStationDB\BusStationDatadaseProject\BusStationDatadaseProject\obj\Debug\BusStationDatadaseProject.sqlprojAssemblyReference.cache
+D:\University\Transport\DB-coursework-bus-station\BusStationDB\BusStationDatadaseProject\BusStationDatadaseProject\obj\Debug\BusStationDatadaseProject.dll
+D:\University\Transport\DB-coursework-bus-station\BusStationDB\BusStationDatadaseProject\BusStationDatadaseProject\obj\Debug\BusStationDatadaseProject.pdb
